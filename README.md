@@ -1,6 +1,6 @@
 # Olá, eu sou o Andre Marcal 🚀
 
-**Senior Executive | Web3 Strategist | Agentic AI & Automation Enthusiast**
+** TAM Senior Executive | Web3 Strategist | Agentic AI & Automation Enthusiast**
 
 Com mais de 30 anos de experiência liderando operações em tecnologia e banking, estou atualmente focado na convergência entre a gestão executiva (C-Level) e a implementação técnica de soluções de IA Generativa e Blockchain.
 
