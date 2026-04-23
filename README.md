@@ -1,27 +1,28 @@
-# Olá, eu sou o Andre Marcal 🚀
+# Hi, I'm Andre Marcal 🚀
 
-** TAM Senior Executive | Web3 Strategist | Agentic AI & Automation Enthusiast**
+**TAM Senior Executive | Web3 Strategist | Agentic AI & Automation Enthusiast**
 
-Com mais de 30 anos de experiência liderando operações em tecnologia e banking, estou atualmente focado na convergência entre a gestão executiva (C-Level) e a implementação técnica de soluções de IA Generativa e Blockchain.
-
----
-
-### 2026 Focus: Orquestração de Agentes de IA
-Atualmente desenvolvendo o projeto **pAIq**, focado em:
-- 🤖 **Agentic AI:** Criação e orquestração de fábricas de agentes de IA para eficiência operacional.
-- 🐍 **Python Development:** Automação de processos e análise de dados complexos.
-- 🌐 **Web3 & RWA:** Estratégias de Tokenização de Ativos Reais e governança descentralizada.
+With over 30 years of experience leading technology and banking operations, I am currently focused on the convergence of C-Level executive management and the technical implementation of Generative AI and Blockchain solutions.
 
 ---
 
-### 🛠 Tech Stack em Evolução
-- **Linguagens:** Python (foco atual), SQL, Markdown.
+### ### 🎯 2026 Focus: AI Agent Orchestration
+Currently developing the **pAIq** project, focused on:
+
+- 🤖 **Agentic AI:** Creating and orchestrating AI agent factories for operational efficiency.
+- 🐍 **Python Development:** Process automation and complex data analysis.
+- 🌐 **Web3 & RWA:** Real World Asset tokenization strategies and decentralized governance.
+
+---
+
+### 🛠 Evolving Tech Stack
+- **Languages:** Python (current focus), SQL, Markdown.
 - **AI Frameworks:** LangChain, CrewAI, OpenAI API.
-- **Estratégia:** Result as a Service (RaaS), Country Manager as a Service.
+- **Strategy:** Results as a Service (RaaS), Country Manager as a Service.
 
 ---
 
-### 📊 Estatísticas e Atividade
-📫 **Como me encontrar:**
-- [LinkedIn] https://www.linkedin.com/in/andrelgm
-- 📍 Baseado em Málaga, Espanha 🇪🇸
+### 📊 Statistics & Activity
+📫 **How to reach me:**
+- [LinkedIn](https://www.linkedin.com/in/andrelgm)
+- 📍 Based in Málaga, Spain 🇪🇸
