@@ -18,7 +18,7 @@ Currently developing the **pAIq** project, focused on:
 ### 🛠 Evolving Tech Stack
 - **Languages:** Python (current focus), SQL, Markdown.
 - **AI Frameworks:** LangChain, CrewAI, OpenAI API.
-- **Strategy:** Results as a Service (RaaS), Country Manager as a Service.
+- **Strategy:** Results as a Service (RaaS), 3Es Effortless Expansion Experience Approach.
 
 ---
 
